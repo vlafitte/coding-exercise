@@ -1,2 +1,5 @@
-# coding-exercise
-Coding execercises
+# RelayRides Code Exercises
+
+### [Pricing Exercise](pricing)
+
+### [Calendar Exercise](calendar)
