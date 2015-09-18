@@ -1,4 +1,4 @@
-# Calendar
+﻿# Calendar
 
 ## What
 
@@ -33,3 +33,4 @@ A key aspect of matching renters and owners is vehicle availability—an owner n
 ## A little more
 
 Feel free to use open-source frameworks, such as jQuery, Angular, or React. Please do not simply use a calendar plug-in or component for these frameworks, such as [jQuery UI Datepicker](https://jqueryui.com/datepicker/). 
+

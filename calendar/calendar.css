@@ -1,0 +1,35 @@
+.cal_calendar
+{
+        padding:1px;
+        background-color:#C0C0C0;
+        width:300px;
+        margin:auto;
+        height:150px;
+		font: 15px arial, sans-serif;
+}
+.cal_calendar th
+{
+        background-color:#ffffff;
+        width:36px;
+}
+.cal_calendar td
+{
+        background-color:#ffffff;
+        text-align:center;
+        width:36px;
+        height:36px;
+}
+.cal_today
+{
+        color:#000000;
+        font-weight:bold;
+}
+.cal_days_bef_aft
+{
+        color:#C0C0C0;
+}
+
+.cal_days_busy
+{
+	color:#FF4500;
+}
